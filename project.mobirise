@@ -13,7 +13,7 @@
     "name": "anandgardenspure",
     "versionFirst": "4.12.0",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 11,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "htmltag": "undefined"
+    "htmltag": "<html>"
   },
   "pages": {
     "index.html": {
@@ -417,6 +417,64 @@
               "text": "<em>Our friend showed us this place as we came for an office picnic. Since then i have visited the place several times with my family as well.&nbsp;</em>"
             }
           ]
+        },
+        {
+          "_params": {
+            "token": "8589171929.727bfe1.8bff2095246a4e13825b5ab3ea9a2377",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 6,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1890561895900187313_8589171929\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-a"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebookToken": "",
+            "facebook": "",
+            "twitter": "AGardens2",
+            "youtube": "UCynJLMGV-wDYkebnFLijMQg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-9"
         },
         {
           "_params": {
