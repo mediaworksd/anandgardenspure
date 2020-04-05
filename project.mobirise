@@ -111,7 +111,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
-          "title": "Anand Gardens Resort",
+          "title": "Anand Gardens Resort...<br><br>Holiday <br>@ Your Doorstep",
           "text": "Life is Calling...\n<br>Don't Postpone Happiness !&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:anandgardens@gmail.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Booking Query</a> ",
           "alias": "purity/components",
@@ -148,7 +148,7 @@
             "overlayOpacity": 0.5
           },
           "title": "About Us",
-          "text": "Anand Gardens Resort\n<br>Vasai, Maharastra<br>\n<br>Anand Gardens, is a family resort on Vasai Highway, Maharashtra, India\n<br>to relax in AC Wooden Cottage &amp; Pool + enjoy kid zone &amp; various sports.<br>\n<br>Holiday at your Doorstep... No long distance travel, no traffic jam, no need to schedule a <br>special holiday, finish work on weekends, leave for the holiday &amp; start ur holidays within a hour.<br><br> Kashmiri Wooden Cottages with all the Comfortable and clean facilities &amp; <br>why to stay in concrete walls when you have Wooden stays along with swimming pool.\n<br>We offer very tasty, and home-made food *Veg - 100% option for guests*. <br>We also offer Aagri Food... Group of 25 to 40 people can stay...\n<br><br>Now, why go to Lonavala or Mahabaleshwar, <br>when we are offering same atmosphere near your house?\n<br><br>Get information about the cool holiday that you can afford<br> and Find Our Best Price according to our seasonal demand and supply...&nbsp;<br>",
+          "text": "ANAND GARDENS... SERVING HAPPINESS !&nbsp;<br><br>Anand Gardens Resort is located at Naigaon - Vasai Highway, Maharashtra &amp;<br>is known for its Hospitality .<br><br>Anand Gardens, is a family resort on Vasai Highway, Maharashtra, India\n<br>to relax in AC Wooden Cottage &amp; Pool + enjoy kid zone &amp; various sports.<br>\n<br>Holiday at your Doorstep... No long distance travel, no traffic jam, no need to schedule a <br>special holiday, finish work on weekends, leave for the holiday &amp; start ur holidays within a hour.<br><br> Kashmiri Wooden Cottages with all the Comfortable and clean facilities &amp; <br>why to stay in concrete walls when you have Wooden stays along with swimming pool.\n<br>We offer very tasty, and home-made food *Veg - 100% option for guests*. <br>We also offer Aagri Food... Group of 25 to 40 people can stay...\n<br><br>Now, why go to Lonavala or Mahabaleshwar, <br>when we are offering same atmosphere near your house?\n<br><br>Get information about the cool holiday that you can afford<br> and Find Our Best Price according to our seasonal demand and supply...&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -484,9 +484,9 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
-          "text1": "<strong>Address</strong><br>Chinchoti Anjur Phata Rd, \n<br>Chinchoti, \n<br>Naigaon-Vasai Highway, \n<br>Maharashtra - 401208 \n<br><br>\n<strong>Contacts</strong><br>Email: anandgardens@gmail.com\n<br>Phone: +91 8828216111<br>",
-          "text2": "<strong>Links</strong><ul><li>Facebook</li></ul>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
+          "text1": "<strong>ADDRESS :</strong><br>Chinchoti Anjur Phata Rd, \n<br>Chinchoti, \n<br>Naigaon-Vasai Highway, \n<br>Maharashtra - 401208 \n<br><br>\n<strong>CONTACT US :&nbsp;</strong><br>Email: anandgardens@gmail.com\n<br>Phone: +91 8828216111<br>",
+          "text2": "<p><strong>LINKS :</strong></p><p><span style=\"font-size: 1rem;\">Facebook</span><br></p><p><span style=\"font-size: 1rem;\">Instagram</span></p>",
           "form": {
             "title": "MESSAGE",
             "action": "anandgardens@gmail.com",
