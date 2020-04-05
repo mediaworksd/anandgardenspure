@@ -13,7 +13,7 @@
     "name": "anandgardenspure",
     "versionFirst": "4.12.0",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 16,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -318,6 +318,59 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-3"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Pricing",
+          "text": "<p>Rs. 2100 - Entry charges, Per person (Includs Lunch and Evening Snacks.)</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://wa.me/+918828216111\" data-toolbar=\"-mbrBtnMove\">Make Payment Online</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-f"
         },
         {
           "_styles": {
